@@ -111,9 +111,7 @@ int resRGB  = 0;
 int gray = 0;
 int  outDith = 0; // output in dithering is: white = 1 or black = 0
 
-//int  orderedDithering [2][2] = {{51,206},{153,102}};
-//int  orderedDithering [2][2] = {{0,127},{128,255}};
-int  orderedDithering [2][2] = {{63,127},{191,255}};
+int  orderedDithering [2][2] = {{63,191},{255,127}};
 
 //Gray Image
 
