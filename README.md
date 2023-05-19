@@ -6,7 +6,7 @@ This repository contains a C++ program for performing ordered dithering on an im
 
 - Load an image file.
 - Perform ordered dithering on the image.
-- Generate a new file containing the resulting image in black and white colors.
+- A new file will be generated, which containing the resulting image in black and white colors.
 
 ## Prerequisites
 
