@@ -21,7 +21,7 @@ Follow the steps below to get started with this program:
 1. Clone this repository to your local machine or download the ZIP file and extract its contents.
 
 ```shell
-[git clone https://github.com/your-username/Ordered-Dithering.git](https://github.com/Rahaf-Mansour/ordered-dithering-cpp.git)
+git clone https://github.com/your-username/Ordered-Dithering.git
 ```
 
 2. Open the project in your preferred C++ development environment.
