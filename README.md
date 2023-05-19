@@ -1,6 +1,6 @@
 # Ordered Dithering
 
-This repository contains a C++ program for performing ordered dithering on an image, resulting in a new file that contains the resulting image in black and white colors. Ordered dithering is a technique used in image processing to reduce the number of colors in an image while maintaining visual quality by simulating additional colors through dither patterns.
+This repository contains a C++ program for performing ordered dithering on an image, resulting in a new file that contains the resulting image in black and white colors (as small dots). Ordered dithering is a technique used in image processing to reduce the number of colors in an image while maintaining visual quality by simulating additional colors through dither patterns.
 
 ## Features
 
@@ -21,7 +21,7 @@ Follow the steps below to get started with this program:
 1. Clone this repository to your local machine or download the ZIP file and extract its contents.
 
 ```shell
-git clone https://github.com/your-username/Ordered-Dithering.git
+[git clone https://github.com/your-username/Ordered-Dithering.git](https://github.com/Rahaf-Mansour/ordered-dithering-cpp.git)
 ```
 
 2. Open the project in your preferred C++ development environment.
